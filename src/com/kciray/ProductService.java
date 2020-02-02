@@ -28,6 +28,17 @@ public class ProductService implements BeanFactoryAware {
 public BeanFactory getBeanFactory  ()
 {
     int a;
+    a=5;
+    System.out.println(a);
+
+
+
+
+
+
+
+
+    
     return beanFactory;
 
 }
