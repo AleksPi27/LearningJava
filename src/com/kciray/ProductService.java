@@ -27,6 +27,8 @@ public class ProductService implements BeanFactoryAware {
 
 public BeanFactory getBeanFactory  ()
 {
+    int a;
     return beanFactory;
+
 }
 }
